@@ -1,0 +1,8 @@
+{
+  "name": "Content switcher",
+  "description": "",
+  "type": "component",
+  "status": "stable",
+  "platform": "web",
+  "framework": "react"
+}

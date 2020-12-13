@@ -1,0 +1,8 @@
+{
+  "name": "UI shell header",
+  "description": "",
+  "type": "component",
+  "status": "stable",
+  "platform": "web",
+  "framework": "react"
+}

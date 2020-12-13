@@ -1,0 +1,8 @@
+{
+  "name": "Accordion",
+  "description": "",
+  "type": "component",
+  "status": "stable",
+  "platform": "web",
+  "framework": "react"
+}

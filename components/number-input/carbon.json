@@ -1,0 +1,8 @@
+{
+  "name": "Number input",
+  "description": "",
+  "type": "component",
+  "status": "stable",
+  "platform": "web",
+  "framework": "react"
+}

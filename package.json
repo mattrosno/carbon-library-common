@@ -1,0 +1,11 @@
+{
+  "name": "carbon-library-common",
+  "version": "0.1.0",
+  "private": true,
+  "carbon": {
+    "name": "Carbon Common"
+  },
+  "dependencies": {
+    "prettier-config-carbon": "^0.4.0"
+  }
+}

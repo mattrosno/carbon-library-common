@@ -1,0 +1,8 @@
+{
+  "name": "Code snippet",
+  "description": "",
+  "type": "component",
+  "status": "stable",
+  "platform": "web",
+  "framework": "react"
+}

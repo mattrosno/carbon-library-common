@@ -1,0 +1,8 @@
+{
+  "name": "UI shell right panel",
+  "description": "",
+  "type": "component",
+  "status": "stable",
+  "platform": "web",
+  "framework": "react"
+}
