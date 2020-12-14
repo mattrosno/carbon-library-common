@@ -58,13 +58,6 @@ table display settings, and other utilities.
 
 ## Live demo
 
-import { rowData, headerData } from '../../../data/components/data-table.js';
-import {
-  Delete16 as Delete,
-  Save16 as Save,
-  Download16 as Download,
-} from '@carbon/icons-react';
-
 <ComponentDemo
   components={[
     {
@@ -84,7 +77,7 @@ import {
       label: 'With batch actions',
     },
   ]}
-  scope={{ rowData, headerData, React, Delete, Save, Download }}>
+  scope={}>
   <ComponentVariant
     id="default-table"
     knobs={{ DataTable: ['isSortable'], Table: ['size', 'useZebraStyles'] }}

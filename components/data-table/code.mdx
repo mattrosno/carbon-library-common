@@ -6,13 +6,6 @@ description:
 tabs: ['Usage', 'Style', 'Code', 'Accessibility']
 ---
 
-import { rowData, headerData } from '../../../data/components/data-table.js';
-import {
-  Delete16 as Delete,
-  Save16 as Save,
-  Download16 as Download,
-} from '@carbon/icons-react';
-
 <PageDescription>
 
 Preview the data table component with the React live demo. For detailed code
@@ -76,7 +69,7 @@ usage documentation, see the Storybooks for each framework below.
       label: 'With batch actions',
     },
   ]}
-  scope={{ rowData, headerData, React, Delete, Save, Download }}>
+  scope={}>
   <ComponentVariant
     id="default-table"
     knobs={{ DataTable: ['isSortable'], Table: ['size', 'useZebraStyles'] }}
