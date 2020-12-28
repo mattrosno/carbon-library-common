@@ -5,7 +5,11 @@
   "carbon": {
     "name": "Carbon Common"
   },
+  "scripts": {
+    "format": "prettier --write 'components/**/*.{css,scss,json,html,yaml,md,mdx}'"
+  },
   "dependencies": {
+    "prettier": "^2.2.1",
     "prettier-config-carbon": "^0.4.0"
   }
 }
