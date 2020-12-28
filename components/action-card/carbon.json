@@ -1,0 +1,8 @@
+{
+  "name": "Action card",
+  "description": "",
+  "type": "component",
+  "status": "experimental",
+  "platform": "web",
+  "framework": "react"
+}
